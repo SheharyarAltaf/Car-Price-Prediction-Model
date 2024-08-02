@@ -6,7 +6,7 @@ in this Python jupyter notebook our machine learning model will predict the pric
 <h3> Numpy</h3>
 <img src="https://datascientest.com/wp-content/uploads/2021/04/illu_numpy_blog-125.png" width="200" height="150">
 <h3> Jupyter </h3>
-<img src="https://th.bing.com/th/id/R.2942868590f96d71ef8a0964991967bb?rik=tRAHNzvycOTxwQ&pid=ImgRaw&r=0"width="200" height="150"><br>
+<img src="https://th.bing.com/th/id/R.2942868590f96d71ef8a0964991967bb?rik=tRAHNzvycOTxwQ&pid=ImgRaw&r=0"width="200" height="150">
 
 # Requriemnts/Libraries
 <tr>
